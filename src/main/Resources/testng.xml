@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="jenkinsdemo">
+  <test name="jenkinsdemo">
+ 
+  <classes>
+     <class name="jjdemo.Googaltitle"/>
+       <class name="jjdemo.Googlenavigate"/>
+      </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
