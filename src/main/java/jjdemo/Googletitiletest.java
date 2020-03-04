@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 	
-	public class Googaltitle {
+	public class Googletitiletest {
 		
 			@Test
 			public void tt(){
